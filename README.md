@@ -19,4 +19,4 @@ React Native Gradient
 <img width="200" alt="Demo1" src="https://github.com/sbpinilla/react-native-gradient/blob/master/demo/demo.png">
 
 ### Tomado de 
-[react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient)
+[crypto-js](https://www.npmjs.com/package/crypto-js)
